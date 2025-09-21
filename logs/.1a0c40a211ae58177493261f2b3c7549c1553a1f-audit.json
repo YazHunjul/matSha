@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/yazan/Downloads/MatchaShahd/logs/.1a0c40a211ae58177493261f2b3c7549c1553a1f-audit.json",
+    "files": [
+        {
+            "date": 1758480725445,
+            "name": "/Users/yazan/Downloads/MatchaShahd/logs/mcp-puppeteer-2025-09-21.log",
+            "hash": "4f64617ca06957b8a3a5cbb9dd830a1f1fff2c821fdaab8ff65db5664c2c3129"
+        }
+    ],
+    "hashType": "sha256"
+}
